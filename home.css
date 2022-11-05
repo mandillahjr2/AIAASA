@@ -454,6 +454,7 @@ ul li a:hover{
     .logo{
         margin-left: 140px;
         font-size: 4vw;
+        /* font-size: 16px; */
     }
     ul{
         margin-top: -25px;
@@ -468,5 +469,8 @@ ul li a:hover{
         margin-top: -40px;
         margin-left: 38px;
     } 
+    .content .par{
+      font-size: 16px;
+    }
 
 }
